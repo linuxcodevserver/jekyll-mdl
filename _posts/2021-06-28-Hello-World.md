@@ -36,4 +36,4 @@ author: okaits#7534
    <!-- /EthereumAds -->   
 
 # Hello World!
-Ads Try: #1
+Ads Try: #
