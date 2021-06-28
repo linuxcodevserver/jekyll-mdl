@@ -2,7 +2,7 @@
 title: 皆の意見交流所公式ブログ
 email: ありません
 description: 皆の意見交流所というDiscordサーバーの公式ブログです！
-baseurl: "/linuxcodevblog/" # the subpath of your site, e.g. /blog/
+baseurl: "/linuxcodevblog" # the subpath of your site, e.g. /blog/
 url: "http://linuxcodevserver.github.io" # the base hostname & protocol for your site
 github_username: linuxcodevserver
 
