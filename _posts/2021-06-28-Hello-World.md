@@ -6,7 +6,8 @@ highlight: true
 image: https://static.vecteezy.com/system/resources/previews/002/362/995/original/hello-world-icon-free-vector.jpg
 author: okaits#7534
 ---
-<!-- EthereumAds -->
+
+   <!-- EthereumAds -->
    <div id="EthereumAds-linuxcodevblog"></div>
    <script src="https://ethereumads.com/adviewer.js">
    </script>
@@ -14,7 +15,7 @@ author: okaits#7534
        EthereumAds.initAdSlot({
            acceptedCurrencies: ["ALL"], // option ALL for all whitelisted tokens, ETH for Ethereum, DAI for DAI Stablecoin
            //validatorEndpoint:"", // optional custom validator
-           mediaType: "image_1280x720",
+           mediaType: "image_300x250",
            fallback: "default", // default, none, custom url
            slot: "linuxcodevblog",
            address: "0xd404f198c4f580727eb11cd69b581d5f10c7efd9",
@@ -32,7 +33,7 @@ author: okaits#7534
         ],
        */
    </script>
-   <!-- /EthereumAds -->  
+   <!-- /EthereumAds -->   
 
 # Hello World!
 Ads Try: #1
