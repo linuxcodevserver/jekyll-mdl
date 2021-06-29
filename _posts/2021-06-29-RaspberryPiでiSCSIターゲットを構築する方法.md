@@ -36,38 +36,38 @@ author: okaits#7534
    <!-- /EthereumAds -->  
 
 # TL;DR
-今回は(初投稿）、iSCSIターゲットを構築する方法を書きます！
+今回は(初投稿）、iSCSIターゲットを構築する方法を書きます！<br>
 
 # 作業
 ## Step 1 Raspberry Pi OSをインストール
-では、Raspberry PiにRaspberry Pi OSをインストールします....が、ここで解説していると記事が長くなってしまうので、<a href="https://jellyware.jp/kuragemd/raspi/raspberrypi.html">他の人の記事</a>を参考にしてください。
+では、Raspberry PiにRaspberry Pi OSをインストールします....が、ここで解説していると記事が長くなってしまうので、<a href="https://jellyware.jp/kuragemd/raspi/raspberrypi.html">他の人の記事</a>を参考にしてください。<br>
 
 ## Step 2 OMVのインストール
-では、OMVをインストールしてみましょう。
-OMVとは、ファイルやハードディスクを共有することに特化したソフトウェアです。
-インストールが終わったら、CtrlとAltとTを同時に押し、ターミナルを開き、次のコマンドを実行してください。
+では、OMVをインストールしてみましょう。<br>
+OMVとは、ファイルやハードディスクを共有することに特化したソフトウェアです。<br>
+インストールが終わったら、CtrlとAltとTを同時に押し、ターミナルを開き、次のコマンドを実行してください。<br>
 <code>
-wget https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install
-sudo bash install
+wget https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install <br>
+sudo bash install <br>
 </code>
-これが終わったら、再起動し、
-<a href="http://raspberrypi.local"></a>を開きます。
-なお、このリンクはRapsbery Piが起動していて、なおかつ同じWi-Fiに接続しているときにしかアクセスできません。
-そうすると、ログイン画面が出てきます。
-ユーザー名：　admin
-パスワード：　openmediavault
-でログインしてください。
-そして、メニューの
-plugin
-を押し、openmediavault-tgtをインストールしてください。
-そして、メニューの
-Service
-をクリックし、tgtを開きます。
-そうして、最後にTargetの名前を入力して、保存してください。
-それで完成です。
+これが終わったら、再起動し、<br>
+<a href="http://raspberrypi.local"></a>を開きます。<br>
+なお、このリンクはRapsbery Piが起動していて、なおかつ同じWi-Fiに接続しているときにしかアクセスできません。<br>
+そうすると、ログイン画面が出てきます。<br>
+ユーザー名：　admin <br>
+パスワード：　openmediavault <br>
+でログインしてください。<br>
+そして、メニューの<br>
+plugin <br>
+を押し、openmediavault-tgtをインストールしてください。<br>
+そして、メニューの<br>
+Service <br>
+をクリックし、tgtを開きます。<br>
+そうして、最後にTargetの名前を入力して、保存してください。<br>
+それで完成です。<br>
 ## iqn
-iqnは、iqnはiqn.作成した年-作成した月.raspberrypi:設定した名前
-です。
+iqnは、iqnはiqn.作成した年-作成した月.raspberrypi:設定した名前<br>
+です。<br>
   <!-- EthereumAds -->
    <div id="EthereumAds-linuxcodevblog"></div>
    <script src="https://ethereumads.com/adviewer.js">
