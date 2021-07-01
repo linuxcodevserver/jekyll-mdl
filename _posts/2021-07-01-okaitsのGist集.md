@@ -35,5 +35,5 @@ author: okaits#7534
    </script>
    <!-- /EthereumAds -->  
 <ul>
-  <li><script src="https://gist.github.com/okaits/bfbf92846e72d2c3a1588b661ed1ab0a.js"></script></li>
+  <li>1 make-discord-bot.sh<br>名前の通り、Discordのボットを作るスクリプトです！<br><script src="https://gist.github.com/okaits/bfbf92846e72d2c3a1588b661ed1ab0a.js"></script></li>
 </ul>
