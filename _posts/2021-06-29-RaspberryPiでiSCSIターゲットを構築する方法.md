@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry PiでiSCSIターゲットを構築する方法
 categories: iSCSI
-highlight: true
+highlight: false
 image: https://images-na.ssl-images-amazon.com/images/I/41cLQXPYZEL._AC_.jpg
 author: okaits#7534
 ---
