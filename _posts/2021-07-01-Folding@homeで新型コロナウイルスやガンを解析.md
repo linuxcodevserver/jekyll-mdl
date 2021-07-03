@@ -79,12 +79,12 @@ sudo apt install ./fahclient_7.6.21_amd64.deb<br>
 すると、<img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/458/03.png">このような画面が表示されます。<br>
 そしたら、Set up an identifyを選択し、Start Foldingを押します。<br>
 <h2>ただ単に貢献だけをしたい人</h2>
-貢献をして、ポイント（換金不可）とかはいらない人は、<br>
+貢献をして、ポイント（換金不可(例外あり)）とかはいらない人は、<br>
 User: 2x3m7aufjcj7<br>
 Team Number: 234980<br>
 Passkey: 無し<br>
 にしてください。<br>
-なお、この設定だとポイントはokaitsの方に入っていくので、いちおう皆の意見交流所で@DONATERロールが付きます。okaits#7534宛にDMしてください。<br>
+なお、この設定だとポイントはokaitsの方に入っていきます。<br>
 <h2>自分の名前で貢献したい人</h2>
 ポイントを自分でためたり、自分の名前（ニックネーム）で貢献したい人は、<br>
 User: 自分で決めたユーザー名<br>
