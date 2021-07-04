@@ -6,7 +6,10 @@ image: https://newscast.jp/attachments/E6EZAO3dyveSk5kHMldG.png
 highlight: false
 author: okaits#7534
 ---
-   <!-- EthereumAds -->
+<!-- MarkDown Settings -->
+<script src="https://taisukef.github.io/marked_md/marked.min.js">
+<!-- /Markdown Settings -->
+ <!-- EthereumAds -->
    <div id="EthereumAds-linuxcodevblog"></div>
    <script src="https://ethereumads.com/adviewer.js">
    </script>
@@ -44,7 +47,11 @@ Windowsの場合、<a href="https://download.foldingathome.org/releases/public/r
 Ubuntuの場合、<a href="https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/v7.6/fahclient_7.6.21_amd64.deb">ここ</a>からインストーラーをとってきます。<br>
 そしたら、CtrlとAltとTを同時に押し、ターミナルを開き、<br>
 cd ダウンロードしたディレクトリ<br>
-sudo apt install ./fahclient_7.6.21_amd64.deb<br>
+<script>md(`
+```
+sudo apt install ./fahclient_7.6.21_amd64.deb
+```
+`)</script>
 を実行します。<br>
 途中で質問されたら、全てEnterを押してください。
    <!-- EthereumAds -->
@@ -99,6 +106,10 @@ Team Number: 登録時に出てくる数字<br>
 登録が終わったら、自動的に貢献が開始されます。<br>
 なお、linuxでは、再起動時に貢献が自動的に開始されません。<br>
 開始されるようにしたい場合、<br>
-sudo systemctl enable FAHClient<br>
-sudo systemctl start FAHClient<br>
+<script>md(`
+```
+sudo systemctl enable FAHClient
+sudo systemctl start FAHClient
+```
+`)</script>
 を実行してください。
