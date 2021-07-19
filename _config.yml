@@ -5,6 +5,8 @@ description: 皆の意見交流所というDiscordサーバーの公式ブログ
 baseurl: "/linuxcodevblog" # the subpath of your site, e.g. /blog/
 url: "http://linuxcodevserver.github.io" # the base hostname & protocol for your site
 github_username: linuxcodevserver
+disqus: true
+disqus_shortname: 'linuxcodevserver-github-io-linuxcodevblog'
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
