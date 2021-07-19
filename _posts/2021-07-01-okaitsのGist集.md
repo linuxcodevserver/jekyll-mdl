@@ -37,4 +37,5 @@ author: okaits#7534
    <!-- /EthereumAds -->  
 <ul>
   <li>1 make-discord-bot.sh<br>名前の通り、Discordのボットを作るスクリプトです！<br><script src="https://gist.github.com/okaits/bfbf92846e72d2c3a1588b661ed1ab0a.js"></script></li>
+  <li>2 push-to-github.desktop<br>起動させるとGithubに自動的にPushしてくれます。なお、CommitとAddはしません。もともとGithub DesktopでPushがうまく動かなかったときに作ったやつです。<br><script src="https://gist.github.com/okaits/725da880b0113d36a5994b4375bc168b.js"></script></li>
 </ul>
