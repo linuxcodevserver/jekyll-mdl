@@ -15,6 +15,9 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
+    name: ブログ一覧
+    link: https://linuxcodevserver.github.io/linuxcodevblog
+  option2:
     name: 皆の意見交流所公式サイト
     link: https://linuxcodevserver.github.io
 
