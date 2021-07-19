@@ -4,6 +4,7 @@ title: Folding@home(FAH)を使って新型コロナウイルスやガンを解�
 categories: Folding@home
 image: https://newscast.jp/attachments/E6EZAO3dyveSk5kHMldG.png
 highlight: false
+disqus: true
 author: okaits#7534
 ---
  <!-- EthereumAds -->

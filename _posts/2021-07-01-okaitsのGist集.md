@@ -3,6 +3,7 @@ layout: post
 title: okaits#7534のGithub Gist集
 categories: Github-Gist
 highlight: false
+disqus: true
 image: https://images-ext-1.discordapp.net/external/v2ToTBFZ7zHPk2sQlBt80EaH2hhwBfD3Zdf1J_uxMxs/https/github.githubassets.com/images/modules/gists/gist-og-image.png
 author: okaits#7534
 ---
