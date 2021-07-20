@@ -45,7 +45,7 @@ sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb<br>
 <h1>使いやすいように設定</h1>
 <ui>
 <li>
-Visual Studio Codeのインストール<br>
+<h4>Visual Studio Codeのインストール</h4>
 vscodeをインストールすると、Github Desktopからファイルを編集できます。<br>
 vscodeのインストールはsnapからいけますが、日本語入力が使えなくなります。<br>
 <a href="https://code.visualstudio.com/docs/?dv=linux64_deb">Microsoftの公式からダウンロード</a>してインストールします。<br>
@@ -54,8 +54,9 @@ cd ~/ダウンロード<br>
 sudo apt install ./code*.deb<br>
 を実行してください。<br>
 </li>
+<br>
 <li>
-GithubにPushできないのを改善する<br>
+<h4>GithubにPushできないのを改善する</h4>
 環境によりますが、Github DesktopでPushするときにエラーが出てくる可能性があります。<br>
 解決策は、最もかんたんなのは、Pushを自動的に実行する.desktopファイルをデスクトップやDashに置くことです。<br>
 Dashに置くことで、お気に入り登録もできます。<br>
