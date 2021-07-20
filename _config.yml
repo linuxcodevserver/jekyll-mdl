@@ -20,6 +20,9 @@ more_vert:
   option2:
     name: 皆の意見交流所公式サイト
     link: https://linuxcodevserver.github.io
+  option3:
+    name: RSS
+    link: https://linuxcodevserver.github.io/linuxcodevblog/feed.xml
 
 # Build settings
 markdown: kramdown
