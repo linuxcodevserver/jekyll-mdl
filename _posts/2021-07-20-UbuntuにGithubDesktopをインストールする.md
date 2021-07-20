@@ -67,7 +67,8 @@ Dashに置くことで、お気に入り登録もできます。<br>
 に、<br>
 <script src="https://gist.github.com/okaits/725da880b0113d36a5994b4375bc168b.js"></script><br>
 を置くと、デスクトップやDashに登録できます。
-<li>
+</li>
+</ui>
  <!-- EthereumAds -->
    <div id="EthereumAds-linuxcodevblog"></div>
    <script src="https://ethereumads.com/adviewer.js">
