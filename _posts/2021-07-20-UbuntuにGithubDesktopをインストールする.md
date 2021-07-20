@@ -43,8 +43,6 @@ sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb<br>
 <h1>初期設定の注意事項</h1>
 途中でメールアドレスに謎のメールアドレスが入力されていますが、これはスルーです。<br>
 <h1>使いやすいように設定</h1>
-<ui>
-<li>
 <h4>Visual Studio Codeのインストール</h4>
 vscodeをインストールすると、Github Desktopからファイルを編集できます。<br>
 vscodeのインストールはsnapからいけますが、日本語入力が使えなくなります。<br>
@@ -53,9 +51,7 @@ vscodeのインストールはsnapからいけますが、日本語入力が使�
 cd ~/ダウンロード<br>
 sudo apt install ./code*.deb<br>
 を実行してください。<br>
-</li>
 <br>
-<li>
 <h4>GithubにPushできないのを改善する</h4>
 環境によりますが、Github DesktopでPushするときにエラーが出てくる可能性があります。<br>
 解決策は、最もかんたんなのは、Pushを自動的に実行する.desktopファイルをデスクトップやDashに置くことです。<br>
@@ -68,8 +64,6 @@ Dashに置くことで、お気に入り登録もできます。<br>
 に、<br>
 <script src="https://gist.github.com/okaits/725da880b0113d36a5994b4375bc168b.js"></script><br>
 を置くと、デスクトップやDashに登録できます。
-</li>
-</ui>
  <!-- EthereumAds -->
    <div id="EthereumAds-linuxcodevblog"></div>
    <script src="https://ethereumads.com/adviewer.js">
