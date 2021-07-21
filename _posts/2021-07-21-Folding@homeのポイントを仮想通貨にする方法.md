@@ -64,3 +64,5 @@ Nameをコピーしてください。<br>
 そしたら今度は<a href="http://client.foldingathome.org/">Folding@homeクライアントの設定画面</a>を開いてください。<br>
 そしたら、右上の「Change Identify」をクリックしてNameに先ほどコピーしたもの、Team Numberに234980を入力し、Passkeyには何も入力せずに「Save」ボタンを押してください。<br>
 これで終わりです。<br>
+<h2>追記</h2>
+これを日本円にする方法はあとで公開します。<br>
