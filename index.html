@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<p>          </p><h1>ブログ一覧</h1>
+<p>          <h1>ブログ一覧</h1></p>
 <ul>
     {% for post in site.posts %}
-    <p>          </p><li><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></li>
+    <p>          <li><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></li></p>
     {% endfor %}
 </ul>
 <div class="page-content">
