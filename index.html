@@ -2,9 +2,9 @@
 layout: default
 ---
 <h1 style="margin: 0 auto;">ブログ一覧</h1>
-<ul>
+<ul style="margin: 0 auto;">
     {% for post in site.posts %}
-    <li style="margin: 0 auto;"><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></li>
+    <li><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></li>
     {% endfor %}
 </ul>
 <div class="page-content">
