@@ -35,10 +35,10 @@ author: okaits#7534
    </script>
    <!-- /EthereumAds -->  
 <h1>TL;DR</h1>
-<hr>
+<br><hr>
 今回は、<a href="https://foldingathome.org">Folding@home(FAH,F@H)</a>を使って、新型コロナウイルスやガンなどを解析します。<br>
 <h1>インストール</h1>
-<hr>
+<br><hr>
 <h2>Windowsの場合</h2>
 Windowsの場合、<a href="https://download.foldingathome.org/releases/public/release/fah-installer/windows-10-32bit/v7.6/fah-installer_7.6.21_x86.exe">ここ</a>からFolding@homeのインストーラーをとってきます。<br>
 そしたら、fah-installer_7.6.21_x86.exeがダウンロードされると思います。<br>
