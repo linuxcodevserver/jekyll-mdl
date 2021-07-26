@@ -34,9 +34,11 @@ author: okaits#7534
        */
    </script>
    <!-- /EthereumAds -->  
- <h1>TL;DR</h1>
+<h1>TL;DR</h1>
+<hr>
 今回は、<a href="https://foldingathome.org">Folding@home(FAH,F@H)</a>を使って、新型コロナウイルスやガンなどを解析します。<br>
 <h1>インストール</h1>
+<hr>
 <h2>Windowsの場合</h2>
 Windowsの場合、<a href="https://download.foldingathome.org/releases/public/release/fah-installer/windows-10-32bit/v7.6/fah-installer_7.6.21_x86.exe">ここ</a>からFolding@homeのインストーラーをとってきます。<br>
 そしたら、fah-installer_7.6.21_x86.exeがダウンロードされると思います。<br>
@@ -76,6 +78,7 @@ sudo apt install ./fahclient_7.6.21_amd64.deb
    </script>
    <!-- /EthereumAds -->  
 <h1>初期設定</h1>
+<hr>
 インストールが終わったら、<a href="https://client.foldingathome.org">ここ</a>を開きます。<br>
 すると、<img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/458/03.png">このような画面が表示されます。<br>
 そしたら、Set up an identifyを選択し、Start Foldingを押します。<br>

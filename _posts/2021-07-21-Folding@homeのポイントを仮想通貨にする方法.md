@@ -34,12 +34,14 @@ author: okaits#7534
    </script>
    <!-- /EthereumAds --> 
 <h1>注意事項</h1>
+<hr>
 <ui>
 <li>絶対に作業中に出る「Banano Seed」は公開しないでください。</li>
 <li>この方法は貯めるだけですので、勝手になくなったりはしませんが、この方法によってたまった仮想通貨がなくなっても、こちらは責任を負いません。</li>
 <li>この方法はFolding@homeのユーザー名とチームを変えないとできないので、現在持っているポイントを失いたくない人はやらないでください。</li>
 </ui>
 <h1>早速</h1>
+<hr>
 <a href="https://linuxcodevserver.github.io/linuxcodevblog/folding@home/2021/07/01/Folding@home%E3%81%A7%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%82%84%E3%82%AC%E3%83%B3%E3%82%92%E8%A7%A3%E6%9E%90.html">この記事</a>で言っていた「例外あり」はこのことです。<br>
 早速やってみましょう。<br>
 <h2>ウォレットの作成</h2>
