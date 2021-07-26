@@ -22,4 +22,39 @@
 
   <!-- Custom theme css -->
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  <!-- Index.html CSS -->
+  <style>
+    p.mod-postlist {
+      font-size: 93%;
+      line-height: 1;
+      color: #7f7f7f
+    }
+    div.summary {
+      font-size: 108%;
+    }
+    h1.mod-postlist {
+      font-size: 197%;
+      font-family: "新ゴ L", "Shin Go Light";
+      font-weight: normal;
+    }
+    section.mod-postlist {
+      margin-bottom: 60px;
+    }
+    section.mod-postlist:last-child {
+      margin-bottom: 0;
+    }
+    header.mod-postlist {
+      margin-bottom: 10px;
+    }
+    @media only screen and (max-width: 480px) {
+      h1.mod-postlist {
+        font-size: 153.9%;
+      }
+      section.mod-postlist {
+        font-size: 108%;
+      }
+    }
+
+  </style>
 </head>
