@@ -2,9 +2,11 @@
 layout: default
 ---
 <h1 style="margin: 0 auto;">ブログ一覧</h1>
+<hr style="border-width: 3px; border-color: #2E99A9;">
 <ul style="margin: 0 auto;">
     {% for post in site.posts %}
     <li><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></li>
     {% endfor %}
 </ul>
+<hr style="border-width: 3px; border-color: #2E99A9;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
