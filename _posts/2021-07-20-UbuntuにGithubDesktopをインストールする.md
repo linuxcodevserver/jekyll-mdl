@@ -35,17 +35,17 @@ author: okaits#7534
    <!-- /EthereumAds --> 
 
 <h1>インストール</h1>
-<br><hr>
+<br>
 まず、<a href="https://github.com/shiftkey/desktop/releases/download/release-2.9.0-linux4/GitHubDesktop-linux-2.9.0-linux4.deb">ここ</a>からインストーラーをダウンロードします。<br>
 そして、ターミナルで<br>
 cd ~/ダウンロード<br>
 sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb<br>
 と実行してください。<br>
 <h1>初期設定の注意事項</h1>
-<br><hr>
+<br>
 途中でメールアドレスに謎のメールアドレスが入力されていますが、これはスルーです。<br>
 <h1>使いやすいように設定</h1>
-<br><hr>
+<br>
 <h4>Visual Studio Codeのインストール</h4>
 vscodeをインストールすると、Github Desktopからファイルを編集できます。<br>
 vscodeのインストールはsnapからいけますが、日本語入力が使えなくなります。<br>

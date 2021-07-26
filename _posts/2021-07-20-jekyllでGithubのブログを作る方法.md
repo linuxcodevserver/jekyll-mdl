@@ -34,10 +34,10 @@ author: okaits#7534
    </script>
    <!-- /EthereumAds --> 
 <h1>Jekyllって何？</h1>
-<br><hr>
+<br>
 Jekyllとは、Github Pagesなどで動くブログを作るためのものです。<br>
 <h1>方法</h1>
-<br><hr>
+<br>
 まずは<a href="https://github.com/gdgmanagua/jekyll-mdl">このレポジトリ</a>をForkしてください。<br>
 そしたら他のサイトを参考にGithub Pagesを有効化してください。<br>
 この時、gh-pagesブランチを選択してください。<br>
@@ -46,7 +46,7 @@ Jekyllとは、Github Pagesなどで動くブログを作るためのもので�
 そしたらgh-pagesブランチの_config.ymlを一旦全行消してからこれをコピペしてください。<br>
 <script src="https://gist.github.com/okaits/390935c3f4334bc99e807b60acd4cdfc.js"></script>
 <h1>記事の投稿</h1>
-<br><hr>
+<br>
 記事は、gh-pagesブランチの_postsに置きます。<br>
 ファイル名は、<br>
 yyyy-mm-dd-タイトル.md<br>

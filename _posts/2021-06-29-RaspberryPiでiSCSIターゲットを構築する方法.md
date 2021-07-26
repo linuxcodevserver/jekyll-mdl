@@ -37,11 +37,11 @@ author: okaits#7534
    <!-- /EthereumAds -->  
 
 # TL;DR
-<br><hr>
+<br>
 今回は(初投稿）、iSCSIターゲットを構築する方法を書きます！<br>
 
 # 作業
-<br><hr>
+<br>
 ## Step 1 Raspberry Pi OSをインストール
 では、Raspberry PiにRaspberry Pi OSをインストールします....が、ここで解説していると記事が長くなってしまうので、<a href="https://jellyware.jp/kuragemd/raspi/raspberrypi.html">他の人の記事</a>を参考にしてください。<br>
 
