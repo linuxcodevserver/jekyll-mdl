@@ -47,7 +47,7 @@ Windowsの場合、<a href="https://download.foldingathome.org/releases/public/r
 Ubuntuの場合、<a href="https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/v7.6/fahclient_7.6.21_amd64.deb">ここ</a>からインストーラーをとってきます。<br>
 そしたら、CtrlとAltとTを同時に押し、ターミナルを開き、<br>
 cd ダウンロードしたディレクトリ<br>
-<pre class="prettyprint"><code>
+<pre class="prettyprint"><code class="prettyprint">
 sudo apt install ./fahclient_7.6.21_amd64.deb
 </code></pre>
 を実行します。<br>
@@ -105,7 +105,7 @@ Team Number: 登録時に出てくる数字<br>
 登録が終わったら、自動的に貢献が開始されます。<br>
 なお、linuxでは、再起動時に貢献が自動的に開始されません。<br>
 開始されるようにしたい場合、<br>
-<pre class="prettyprint"><code>
+<pre class="prettyprint"><code class="prettyprint">
 sudo systemctl enable FAHClient
 sudo systemctl start FAHClient
 </code></pre>

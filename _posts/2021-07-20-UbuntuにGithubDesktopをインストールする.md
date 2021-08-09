@@ -38,7 +38,7 @@ author: okaits#7534
 <br>
 まず、<a href="https://github.com/shiftkey/desktop/releases/download/release-2.9.0-linux4/GitHubDesktop-linux-2.9.0-linux4.deb">ここ</a>からインストーラーをダウンロードします。<br>
 そして、ターミナルで<br>
-<pre class="prettyprint"><code>
+<pre class="prettyprint"><code class="prettyprint">
 cd ~/ダウンロード
 sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb
 </code></pre>
@@ -54,7 +54,7 @@ vscodeのインストールはsnapからいけますが、日本語入力が使�
 <a href="https://code.visualstudio.com/docs/?dv=linux64_deb">Microsoftの公式からダウンロード</a>してインストールします。<br>
 ダウンロードしたら、<br>
 cd ~/ダウンロード<br>
-<pre class="prettyprint"><code>
+<pre class="prettyprint"><code class="prettyprint">
 sudo apt install ./code*.deb
 </code></pre>
 を実行してください。<br>
