@@ -47,7 +47,9 @@ Windowsの場合、<a href="https://download.foldingathome.org/releases/public/r
 Ubuntuの場合、<a href="https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/v7.6/fahclient_7.6.21_amd64.deb">ここ</a>からインストーラーをとってきます。<br>
 そしたら、CtrlとAltとTを同時に押し、ターミナルを開き、<br>
 cd ダウンロードしたディレクトリ<br>
+<pre class="prettyprint"><code>
 sudo apt install ./fahclient_7.6.21_amd64.deb
+</code></pre>
 を実行します。<br>
 途中で質問されたら、全てEnterを押してください。
    <!-- EthereumAds -->
@@ -103,6 +105,8 @@ Team Number: 登録時に出てくる数字<br>
 登録が終わったら、自動的に貢献が開始されます。<br>
 なお、linuxでは、再起動時に貢献が自動的に開始されません。<br>
 開始されるようにしたい場合、<br>
-sudo systemctl enable FAHClient<br>
-sudo systemctl start FAHClient<br>
+<pre class="prettyprint"><code>
+sudo systemctl enable FAHClient
+sudo systemctl start FAHClient
+</code></pre>
 を実行してください。

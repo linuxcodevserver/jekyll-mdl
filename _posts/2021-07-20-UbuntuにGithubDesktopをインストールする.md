@@ -38,8 +38,10 @@ author: okaits#7534
 <br>
 まず、<a href="https://github.com/shiftkey/desktop/releases/download/release-2.9.0-linux4/GitHubDesktop-linux-2.9.0-linux4.deb">ここ</a>からインストーラーをダウンロードします。<br>
 そして、ターミナルで<br>
-cd ~/ダウンロード<br>
-sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb<br>
+<pre class="prettyprint"><code>
+cd ~/ダウンロード
+sudo apt install ./GitHubDesktop-linux-2.9.0-linux4.deb
+</code></pre>
 と実行してください。<br>
 <h1>初期設定の注意事項</h1>
 <br>
@@ -52,7 +54,9 @@ vscodeのインストールはsnapからいけますが、日本語入力が使�
 <a href="https://code.visualstudio.com/docs/?dv=linux64_deb">Microsoftの公式からダウンロード</a>してインストールします。<br>
 ダウンロードしたら、<br>
 cd ~/ダウンロード<br>
-sudo apt install ./code*.deb<br>
+<pre class="prettyprint"><code>
+sudo apt install ./code*.deb
+</code></pre>
 を実行してください。<br>
 <br>
 <h4>GithubにPushできないのを改善する</h4>

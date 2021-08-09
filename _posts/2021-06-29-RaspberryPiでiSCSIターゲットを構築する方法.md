@@ -49,10 +49,10 @@ author: okaits#7534
 では、OMVをインストールしてみましょう。<br>
 OMVとは、ファイルやハードディスクを共有することに特化したソフトウェアです。<br>
 インストールが終わったら、CtrlとAltとTを同時に押し、ターミナルを開き、次のコマンドを実行してください。<br>
-<code>
-wget https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install <br>
-sudo bash install <br>
-</code>
+<pre class="prettyprint"><code>
+wget https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install
+sudo bash install
+</code></pre>
 これが終わったら、再起動し、<br>
 <a href="http://raspberrypi.local"></a>を開きます。<br>
 なお、このリンクはRapsbery Piが起動していて、なおかつ同じWi-Fiに接続しているときにしかアクセスできません。<br>
