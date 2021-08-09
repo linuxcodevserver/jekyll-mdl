@@ -49,7 +49,7 @@ author: okaits#7534
 では、OMVをインストールしてみましょう。<br>
 OMVとは、ファイルやハードディスクを共有することに特化したソフトウェアです。<br>
 インストールが終わったら、CtrlとAltとTを同時に押し、ターミナルを開き、次のコマンドを実行してください。<br>
-<pre class="prettyprint"><code class="prettyprint>
+<pre class="prettyprint"><code class="prettyprint">
 wget https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install
 sudo bash install
 </code></pre>
